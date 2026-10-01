@@ -12,5 +12,5 @@ I’m a Computer Scientist. Currently I'm working as a Front-end Developer. 🚀
 
 #### 💬 Find me elsewhere
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renans4ntos/)](https://www.linkedin.com/in/renans4ntos/) 
-[![Gmail Badge](https://img.shields.io/badge/-renanbs41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:renanbs41@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanborbadev/)](https://www.linkedin.com/in/renanborbadev/) 
+[![Gmail Badge](https://img.shields.io/badge/-renanborbadev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanborbadev@gmail.com)](mailto:renanborbadev@gmail.com)
